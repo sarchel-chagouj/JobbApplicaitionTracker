@@ -1,0 +1,11 @@
+1. Hur hjälpte LINQ mig att skriva renare kod?
+LINQ gjorde min kod både kortare och tydligare.
+Istället för att skriva långa loopar för att filtrera, sortera eller räkna saker, kunde jag använda enkla uttryck som Where, OrderBy och GroupBy.
+Det gjorde att min kod blev mer lättläst, mindre upprepande och enklare att underhålla.
+LINQ hjälpte mig också att tänka mer strukturerat kring datahantering.
+
+2. Vilken del av projektet var mest utmanande, och hur löste jag den?
+Det mest utmanande var att förstå skillnaden mellan metoder som returnerar värden och metoder som använder void.
+Jag fick felmeddelanden som “cannot convert from void to bool”, och det tog tid att förstå varför.
+Jag löste det genom att gå igenom min kod metod för metod, och se till att jag inte använde void‑metoder i if‑satser eller som returvärden.
+När jag väl förstod det blev resten av projektet mycket enklare.
